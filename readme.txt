@@ -1,5 +1,4 @@
 This repository is to automate time entries based off of Outlook calendar csv exports. The problem that had led me to begin this project is the excessive amount of time it takes to perform time entries. 
-Management failed to listen to our cries and criticism with the current system, so I am taking actions on my own hands.
 In the dev team, we do a good job of planning our day in our Outlook calendars to let team members and management know what we are working on the hour, and I want to take that export and automate time entries.
 
 This script will go through the csv export and grab time and dates off and enter them into specified Smartsheets or Base99 tickets.
